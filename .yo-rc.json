@@ -1,0 +1,9 @@
+{
+  "generator-openapi-repo": {
+    "name": "BO Ucheckin",
+    "repo": "Oonan/doc-api-ucheckin",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
